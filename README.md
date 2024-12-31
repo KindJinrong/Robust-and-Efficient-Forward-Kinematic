@@ -1,1 +1,1 @@
-# Robust-and-Efficient-Forward-Kinematic
+# QR Decomposition Based Kinematic Method
