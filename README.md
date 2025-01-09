@@ -1,1 +1,1 @@
-# QR Decomposition Based Kinematic Method
+# QR Decomposition Based Method
